@@ -32,6 +32,7 @@ li:not(:last-child) {
 .landinpar {
   width: 100%;
   position: relative;
+  padding-top: 50px;
 }
 
 .text {
@@ -40,6 +41,9 @@ li:not(:last-child) {
 
 .text p {
   margin-bottom: 30px;
+}
+.imgbac  {
+width: 100%;
 }
 .imgbac img {
   width: 100%;
